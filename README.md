@@ -1,4 +1,13 @@
-# SpaceInvaders
-OpenGl Space Invaders
+# Space Invaders
 
-![Screenshot](./img/print1.jpg)
+C++ OpenGl implementation of Space Invaders.
+
+To compile run:
+
+`make`
+
+To play:
+
+`make run`
+
+![Screenshot](./img/Space.gif)
